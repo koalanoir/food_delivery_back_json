@@ -13,8 +13,6 @@ app.use(cors());
 // Utiliser le middleware JSON Server
 app.use('/api', router);
 
-
-
 // Démarrer le serveur
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
