@@ -37,7 +37,7 @@
           "nom":"cannette fanta orange",
           "prix":500,
           "ingredients":"bbb,machin,..",
-          "photo":"https://ibb.co/DrfRppD"
+          "photo":"https://i.ibb.co/rFKPKxB/fanta-33cl-0.jpg"
         },
         {
           "id":5,
@@ -82,14 +82,14 @@
           "nom":"cannette fanta orange",
           "prix":500,
           "ingredients":"bbb,machin,..",
-          "photo":"https://ibb.co/DrfRppD"
+          "photo":"https://i.ibb.co/rFKPKxB/fanta-33cl-0.jpg"
         },
         {
           "id":5,
           "nom":"cannette coca cola ",
           "prix":500,
           "ingredients":"bbb,machin,..",
-          "photo":"https://ibb.co/7C1337D"
+          "photo":"https://i.ibb.co/KmPPmmN/coca.jpg"
         }
       ]
     },
@@ -100,12 +100,20 @@
       "photo" : "https://i.ibb.co/stVwnL9/nazos.jpg",
       "items" : 
       [
+        
         {
           "id":1,
           "nom":"burger",
           "prix":2500,
           "ingredients":"pain,steak,..",
           "photo":"https://drive.usercontent.google.com/download?id=1HV11MWGfbQnRoCWTRo7BNRa8I4-SOp3e&authuser=0"
+        },
+        {
+          "id":6,
+          "nom":"plat du jour",
+          "prix":3500,
+          "ingredients":"pain,steak,..",
+          "photo":"https://i.ibb.co/grysWhR/plat.jpg"
         },
         {
           "id":2,
@@ -127,14 +135,14 @@
           "nom":"cannette fanta orange",
           "prix":500,
           "ingredients":"bbb,machin,..",
-          "photo":"https://ibb.co/DrfRppD"
+          "photo":"https://i.ibb.co/rFKPKxB/fanta-33cl-0.jpg"
         },
         {
           "id":5,
           "nom":"cannette coca cola ",
           "prix":500,
           "ingredients":"bbb,machin,..",
-          "photo":"https://ibb.co/7C1337D"
+          "photo":"https://i.ibb.co/KmPPmmN/coca.jpg"
         }
       ]
     }

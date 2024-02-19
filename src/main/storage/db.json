@@ -1,7 +1,0 @@
-{
-    "orders": [
-      { "id": 1, "restaurant": "Fast Food Express", "items": ["Burger", "Fries"], "status": "Pending" },
-      { "id": 2, "restaurant": "Pizza Palace", "items": ["Pepperoni Pizza", "Garlic Bread"], "status": "Delivered" }
-    ]
-  }
-  
